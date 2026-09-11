@@ -1,6 +1,6 @@
 # 🗄️ Estudos de SQL e modelagem de dados
 
-Repositório de estudo de bancos de dados relacionais: do curso **SQL do básico ao avançado** (Udemy, 19,5 h, com projetos em PHP + MySQL) às modelagens que uso nos meus projetos reais.
+Repositório de estudo de bancos de dados relacionais: do curso **SQL do básico ao avançado (com MySQL e Projeto)** (Udemy, 19,5 h, concluído em maio de 2026) às modelagens que uso nos meus projetos reais.
 
 ## 📚 O que estudei
 
